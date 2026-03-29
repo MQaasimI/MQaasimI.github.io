@@ -1,4 +1,3 @@
-# MQaasimI.github.io
 # Qaasim Isaacs
 
 <img src="profile.jpeg" alt="Qaasim Isaacs" width="190" height="220">
