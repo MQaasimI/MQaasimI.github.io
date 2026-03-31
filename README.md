@@ -64,6 +64,6 @@ I am a committed third-year Application Development student pursuing a Diploma i
 <h2>🎥 Mock Interview of Qaasim Isaacs</h2>
 
 <video width="560" height="315" controls>
-  <source src="Mock Interview of Qaasim Isaacs (2).mp4" type="video/mp4">
+  <source src="Mock interview of Qaasim Isaacs (2).mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
