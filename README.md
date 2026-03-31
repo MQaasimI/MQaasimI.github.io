@@ -60,3 +60,10 @@ I am a committed third-year Application Development student pursuing a Diploma i
 ✉️ 2225444222@mycput.ac.za  
 📍 Kensington, Cape Town  
 🔗 LinkedIn: [linkedin.com/in/qaasim-isaacs](https://www.linkedin.com/in/qaasim-isaacs)
+
+<h2>🎥 Mock Interview of Qaasim Isaacs</h2>
+
+<video width="560" height="315" controls>
+  <source src="Mock Interview of Qaasim Isaacs.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
