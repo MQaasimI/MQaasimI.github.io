@@ -108,3 +108,145 @@ I followed the instructions step by step and used the guide whenever I got stuck
 In the end, I managed to publish my work successfully. It helped me understand GitHub better and made me more confident using tools like this. I also realised it’s not as difficult once you get used to it.
 
 ---
+
+## 📋 Agile Project Portfolio
+
+### SAEON Real-Time Rainfall Monitoring System
+
+Our project focuses on an ESP32-based rainfall monitoring system
+for SAEON. It aims to transmit rainfall data from remote monitoring
+sites through cellular communication to a live dashboard.
+
+*My role:* Analyst / Researcher / Writer
+
+*My contribution:* [Describe the research, documentation,
+validation, or other work you personally completed.]
+
+### Portfolio Contents
+
+- [Agile Team Charter](#agile-team-charter)
+- [User Stories and Tasks](#user-stories-and-tasks)
+- [Product Backlog](#product-backlog)
+- [Sprint Backlog](#sprint-backlog)
+- [Agile Logbook](#agile-logbook)
+- [Overall Learning](#overall-learning)
+
+---
+
+### Agile Team Charter
+
+#### Evidence
+
+[View the Agile Team Charter](./evidence/agile-team-charter.pdf)
+
+The charter sets out our team's purpose, roles, working agreements,
+communication practices, goals, and definition of done.
+
+*My contribution:* [Explain your involvement in developing,
+reviewing, or updating the charter.]
+
+#### Reflection
+
+- *Situation:* [What did the team need to agree on?]
+- *My actions:* [What did you personally contribute?]
+- *Outcome:* [What happened? Give a specific example.]
+- *Learning:* [What did you learn, and what would you improve?]
+
+---
+
+### User Stories and Tasks
+
+#### Evidence
+
+[View the User Stories and Tasks](./evidence/user-stories-and-tasks.pdf)
+
+This evidence shows our users' needs, acceptance criteria,
+and the tasks needed to implement each story.
+
+*My contribution:* [Identify the stories or tasks you helped create.]
+
+#### Reflection
+
+- *Situation:* [Which user needs were you trying to understand?]
+- *My actions:* [How did you help write or break down the stories?]
+- *Outcome:* [How did this make the work clearer?]
+- *Learning:* [What would you change when writing future stories?]
+
+---
+
+### Product Backlog
+
+#### Evidence
+
+[View the Product Backlog](./evidence/product-backlog.pdf)
+
+The product backlog records the project work in priority order.
+
+*My contribution:* [Explain which items you identified,
+clarified, estimated, or helped prioritise.]
+
+#### Reflection
+
+- *Situation:* [What competing needs or priorities existed?]
+- *My actions:* [How did you help organise or prioritise the work?]
+- *Outcome:* [What decision or improvement resulted?]
+- *Learning:* [What did you learn about managing project scope?]
+
+---
+
+### Sprint Backlog
+
+#### Evidence
+
+[View the Sprint Backlog](./evidence/sprint-backlog.pdf)
+
+*Sprint:* [Name or number]
+*Dates:* [Actual start and end dates]
+*Sprint goal:* [The agreed goal]
+
+The sprint backlog shows the work selected for this sprint
+and the progress made towards its goal.
+
+*My contribution:* [Identify your tasks and their actual status.]
+
+#### Reflection
+
+- *Situation:* [What did the team aim to achieve during the sprint?]
+- *My actions:* [What work did you complete or help coordinate?]
+- *Outcome:* [What was completed, delayed, or changed, and why?]
+- *Learning:* [How would you improve planning for the next sprint?]
+
+---
+
+### Agile Logbook
+
+#### Evidence
+
+[View the Agile Logbook](./evidence/agile-logbook.pdf)
+
+The logbook records dated meetings, progress, challenges,
+decisions, and retrospective notes.
+
+*My contribution:* [Explain which entries you recorded
+or which activities demonstrate your participation.]
+
+#### Reflection
+
+- *Situation:* [What needed tracking or communicating?]
+- *My actions:* [How did you record progress or raise challenges?]
+- *Outcome:* [How did the records help the team?]
+- *Learning:* [What did you learn about communication
+  and accountability?]
+
+---
+
+### Overall Learning
+
+[Explain how the charter, user stories, product backlog,
+sprint backlog, and logbook worked together.
+
+Connect this experience to your development as an ICT student
+and your preparation for Work Integrated Learning. Use specific
+examples from your own contribution.]
+
+---
