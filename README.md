@@ -1,6 +1,6 @@
 # Qaasim Isaacs
 
-<img src="profile.jpeg" alt="Qaasim Isaacs" width="190" height="220">
+<img src="Media/profile.jpeg" alt="Qaasim Isaacs" width="190" height="220">
 
 **🎯 Application Development Student | Seeking a WIL or Internship Opportunity**
 
@@ -74,8 +74,8 @@ Kensington, Cape Town
 My WIL preparation interview covers my interests, handling stress, learning from a mistake and what success means to me.
 
 <video width="560" controls playsinline preload="metadata" style="max-width:100%;height:auto;">
-  <source src="Mock%20interview%20of%20Qaasim%20Isaacs%20%282%29.mp4" type="video/mp4">
-  Please use the video link below if the player is unavailable.
+  <source src="Media/Mock%20interview%20of%20Qaasim%20Isaacs%20%282%29.mp4" type="video/mp4">
+  Your browser does not support video playback.
 </video>
 
 [Watch or download my mock interview](Mock%20interview%20of%20Qaasim%20Isaacs%20%282%29.mp4)
