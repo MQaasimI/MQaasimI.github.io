@@ -4,7 +4,7 @@
 
 **🎯 Application Development Student | Seeking a WIL or Internship Opportunity**
 
-[Updated CV](#updated-cv) · [SAEON Project](#saeon-project) · [Documents](#project-documents) · [Testing](#testing-evidence)
+[CV](#updated-cv) · [SAEON Project](#saeon-project) · [Documents](#project-documents) · [Testing](#testing-evidence)
 
 **[Read all my reflections](#my-reflections)**
 
@@ -73,7 +73,7 @@ Kensington, Cape Town
 
 My WIL preparation interview covers my interests, handling stress, learning from a mistake and what success means to me.
 
-<video width="560" controls playsinline preload="metadata" style="max-width:100%;height:auto;">
+<video width="350" controls playsinline preload="metadata" style="max-width:100%;height:auto;">
   <source src="Media/Mock%20interview%20of%20Qaasim%20Isaacs%20%282%29.mp4" type="video/mp4">
   Your browser does not support video playback.
 </video>
@@ -82,9 +82,9 @@ My WIL preparation interview covers my interests, handling stress, learning from
 
 ---
 
-## Updated CV
+## CV
 
-My updated CV includes my education, skills, projects, contact details and references.
+My CV includes my education, skills, projects, contact details and references.
 
 [View CV Of Qaasim Isaacs.pdf](Documents/CV%20Of%20Qaasim%20Isaacs.pdf)
 
